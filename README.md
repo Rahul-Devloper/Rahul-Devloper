@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rahul-Devloper
 - 👀 I like to to drink coffee
 - 🌱 I’m currently learning to improve myself each second
-- 💞️ I'm a mechanical engineer who fell in love with computers and ended up as a React Developer (current profile). Trying to explore my next step in the tech world
+- 💞️ I'm a mechanical engineer who fell in love with computers and ended up as a Full-Stack Developer (current profile). Trying to explore my next step in the tech world
 
 <!---
 Rahul-Devloper/Rahul-Devloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
