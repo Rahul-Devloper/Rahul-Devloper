@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rahul-Devloper
--  My Codewars Stats : ![Codewars](https://www.codewars.com/users/Rahul-Devloper/badges/large)
+-  ![Codewars](https://www.codewars.com/users/Rahul-Devloper/badges/large)
 - 👀 I like to to drink coffee
 - 🌱 I’m currently learning to improve myself each second
 - 💞️ I'm a mechanical engineer who fell in love with computers and ended up as a Full-Stack Developer (current profile). Trying to explore my next step in the tech world
