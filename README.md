@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Rahul-Devloper
--  ![Codewars](https://www.codewars.com/users/Rahul-Devloper/badges/large)
-# 👋 Hi there, I'm Rahul Ramesh
+ 
+# 👋 Hi there, I'm Rahul Ramesh   ![Codewars](https://www.codewars.com/users/Rahul-Devloper/badges/large)
 
 I'm a Full Stack Developer with a passion for building secure, scalable systems and modern web applications. I enjoy experimenting with AI-powered development tools like GitHub Copilot and Cursor, and I’m always on a learning spree — whether it's cloud infrastructure, cybersecurity, or new dev frameworks.
 
